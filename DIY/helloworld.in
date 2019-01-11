@@ -1,0 +1,13 @@
+++++++++[>+++++++++<-]        Make H
+>>++++++++++[>++++++++++<-]>+ Make e
+>++++[>++++++++<-]            Make space
+<<<.>>.                       Print H and e
++++++++..                     Make l and print it
++++.                          Make o and print it
+>>.                           Print space
+<<<<<+++[>+++++<-]>.          Make and print W
+>>.                           Print o
++++.                          Make and print r
+------.                       Make and print l
+--------.                     Make and print d
+>>+.                          Make and print !

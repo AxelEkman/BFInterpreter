@@ -1,0 +1,4 @@
+++++++++[>++++++++<-]>+ Make A
+[<+>-]<                 Move A to first position
+[>+>+>+<<<-]            Copy A to 3 following memory slots
+>.>+.>++.               Make B and C and prints them once
